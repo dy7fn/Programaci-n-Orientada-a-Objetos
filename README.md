@@ -1,2 +1,3 @@
 # Programación-Orientada-a-Objetos
-Prácticas
+Prácticas realizadas en el curso de Programación Orientada a Objetos (IS - 282)
+
